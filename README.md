@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush shukla</h1>
-<h3 align="center">A passionate Data Science || Python programming</h3>
+<h3 align="center">I’m  a passionate Data Science || Python programming</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush7524&label=Profile%20views&color=0e75b6&style=flat" alt="ayush7524" /> </p>
