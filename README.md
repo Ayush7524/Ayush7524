@@ -1,3 +1,4 @@
+![logo](https://github.com/Ayush7524/Ayush7524/blob/main/Green%20Watercolour%20Opening%20Soon%20Banner.png)
 <h1 align="center">Hi 👋, I'm Ayush shukla</h1>
 <h3 align="center">I’m  a passionate Data Science || Python programming</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif">
