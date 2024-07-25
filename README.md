@@ -4,13 +4,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush7524&label=Profile%20views&color=0e75b6&style=flat" alt="ayush7524" /> </p>
 
-- 🌱 I’m currently learning **SQL,Data Science**
+- 🌱 I’m currently learning **SQL, Data Analytics, Java Script and Big Data techniques**
+
+- 🧑‍🎓Achievements: **Accenture Data Analytics and Visualization Job Simulation TaTa Data Visualisation**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ayush7524/Ayush7524](https://github.com/Ayush7524/Ayush7524)
 
 - 📫 How to reach me **ayushshukla752494@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact: **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
